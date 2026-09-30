@@ -468,7 +468,7 @@ Add your screenshots to the `Image` folder and use them in this section.
 ## 🔐 Login Screen
 
 <p align="center">
-  <img src="Image/Login.jpg" width="900" alt="Login Screen">
+  <img src="Login.jpg" width="900" alt="Login Screen">
 </p>
 
 ---
@@ -476,7 +476,7 @@ Add your screenshots to the `Image` folder and use them in this section.
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="Image/Menu.png" width="900" alt="Dashboard">
+  <img src="Menu.png" width="900" alt="Dashboard">
 </p>
 
 ---
@@ -484,7 +484,7 @@ Add your screenshots to the `Image` folder and use them in this section.
 ## 🏷️ Category Management
 
 <p align="center">
-  <img src="Image/Cat.jpg" width="900" alt="Category Management">
+  <img src="Cat.jpg" width="900" alt="Category Management">
 </p>
 
 ---
